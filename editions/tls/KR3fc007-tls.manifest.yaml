@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR3fc007/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3fc007/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: ?輯古算經補注
+  identifiers:
+    krp: KR3fc007
+  tags:
+    kr-categories: KR3fc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc007.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3fc007_001-tls.yaml, hash: 'sha256:73b1420225114b44f6e79aff80cf0234496e47ccc216a304fbab24e8d1d629a3'}
+  - {seq: 2, filename: KR3fc007_002-tls.yaml, hash: 'sha256:8bb68ff08726884a9de317a66c0c33de7a59ebb0679f2b87b5b6e7685f4fede2'}
+  - {seq: 3, filename: KR3fc007_003-tls.yaml, hash: 'sha256:5be4fdf6f4660041928e0f658b5bd9b95f2b68c971e4028e4db8104cbec5f5d5'}
+  - {seq: 4, filename: KR3fc007_004-tls.yaml, hash: 'sha256:55a5340130f0915b390e7f6cc37d905ae4d9a40ed4c9b2b7d0f68613c509c2f6'}
+  - {seq: 5, filename: KR3fc007_005-tls.yaml, hash: 'sha256:b558eaae531ae6da00e4366dda430056655c05b18754de9e5e4f6cda85dd89b0'}
+  - {seq: 6, filename: KR3fc007_006-tls.yaml, hash: 'sha256:a8f7d44d8fb2a7286f0ec081c045afc91a419ce90ae2b7b064470fa0734e7ba3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3fc007_001-tls.markers.yaml, hash: 'sha256:bdb92621c86051ed8af7742aae41a30505c4d28c3982cbbe08a638167d9dff10'}
+  - {seq: 2, role: markers, filename: assets/KR3fc007_002-tls.markers.yaml, hash: 'sha256:c2a16603489f59466ecc85d584fbe0ad081651bbe6dc5bc1cb4494953b8161d4'}
+  - {seq: 3, role: markers, filename: assets/KR3fc007_003-tls.markers.yaml, hash: 'sha256:f2d1ca3d22fcea4b816792a91a7fa6c4f9e6ff30782f9e23dcaa2b2b4c44ab5c'}
+  - {seq: 4, role: markers, filename: assets/KR3fc007_004-tls.markers.yaml, hash: 'sha256:33aab325a3e9f2d6202eb7d9e48b280adc3a7d370cf2741d0f2792b8a85e3744'}
+  - {seq: 5, role: markers, filename: assets/KR3fc007_005-tls.markers.yaml, hash: 'sha256:6a5cf96d2e051649d547a2a55f42fafc5564a13eeabddc4e6111494fa2dc20ea'}
+  - {seq: 6, role: markers, filename: assets/KR3fc007_006-tls.markers.yaml, hash: 'sha256:fd5f4d7a5adbd8fb361c1b942c2959d289d20fc7eea0443ea34281bdfa441f86'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 253
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 249
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 201
+  label: ''
+  type: section
+  level: 1
+hash: sha256:5c978a2bd60c5780c4712f24e3e51f0a90317eb8ccfa7504328f4008c24b2285
